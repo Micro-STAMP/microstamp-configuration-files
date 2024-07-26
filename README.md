@@ -1,3 +1,3 @@
-# MicroSTAMP Configuration Server
+# MicroSTAMP configuration files
 
-Configuration Server implementation for MicroSTAMP.
+Repository to store configuration files for the MicroSTAMP project.
